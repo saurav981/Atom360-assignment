@@ -1,0 +1,47 @@
+[
+  {
+    "image": "https://demos.creative-tim.com/soft-ui-dashboard/assets/img/team-2.jpg",
+    "name": "Sarah Johnson",
+    "email": "sarah.j@techcorp.com",
+    "role": "Frontend",
+    "category": "Developer",
+    "status": true,
+    "employed": "2024-01-15T09:00:00.000Z"
+  },
+  {
+    "image": "https://demos.creative-tim.com/soft-ui-dashboard/assets/img/team-3.jpg",
+    "name": "Michael Chen",
+    "email": "m.chen@techcorp.com",
+    "role": "DevOps",
+    "category": "Infrastructure",
+    "status": true,
+    "employed": "2023-11-28T09:00:00.000Z"
+  },
+  {
+    "image": "https://demos.creative-tim.com/soft-ui-dashboard/assets/img/team-4.jpg",
+    "name": "Emily Rodriguez",
+    "email": "e.rodriguez@techcorp.com",
+    "role": "Data Science",
+    "category": "Analytics",
+    "status": false,
+    "employed": "2023-08-05T09:00:00.000Z"
+  },
+  {
+    "image": "https://demos.creative-tim.com/soft-ui-dashboard/assets/img/team-1.jpg",
+    "name": "Alex Kumar",
+    "email": "alex.k@techcorp.com",
+    "role": "UI/UX",
+    "category": "Design",
+    "status": true,
+    "employed": "2024-02-01T09:00:00.000Z"
+  },
+  {
+    "image": "https://demos.creative-tim.com/soft-ui-dashboard/assets/img/team-5.jpg",
+    "name": "Lisa Wong",
+    "email": "l.wong@techcorp.com",
+    "role": "Backend",
+    "category": "Developer",
+    "status": true,
+    "employed": "2023-12-10T09:00:00.000Z"
+  }
+]

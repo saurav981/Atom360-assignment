@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    background-color: #f4f4f5;
+  }
+
+  .btn-normal {
+    @apply bg-orange-500 hover:bg-orange-600 transition px-4 py-1.5 rounded text-sm shadow text-white;
+  }
+
+  .status-btn {
+    @apply flex items-center justify-center w-fit py-1 px-2.5 rounded-lg text-[0.7rem] uppercase font-bold text-white;
+  }
+
+  .popover-style {
+    @apply pl-2 w-[4.5rem] py-0.5 rounded-sm hover:bg-neutral-200 cursor-pointer;
+  }
+}

@@ -1,0 +1,17 @@
+Preliminary Requirement:
+
+
+    Use this https://github.com/creativetimofficial/soft-ui-dashboard repository to 
+
+    create a sample functional dashboard page 
+    which can load charts & users from an API call 
+    (you can choose any dummy API available).
+
+
+
+    In https://demos.creative-tim.com/soft-ui-dashboard/pages/tables.html, 
+    the authors table should be editable (CRUD)
+    
+
+
+    Upload the code on GitHub repository and add a video demo in the README.md file.
