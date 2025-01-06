@@ -1,5 +1,7 @@
 .env
 
+demo_video
+
 # Logs
 logs
 *.log
