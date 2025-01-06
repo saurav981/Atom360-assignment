@@ -2,6 +2,8 @@
 
 Assignment for Atom 360, a chart page, fetching data from an api call and a authors page with CRUD operations.
 
+## [Demo video link](https://youtu.be/Y_U6JMFiet8)
+
 ## Pages
 
 - A chart page
@@ -9,8 +11,9 @@ Assignment for Atom 360, a chart page, fetching data from an api call and a auth
 
 ## Tech Stack
 
-- **Frontend:** [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/)
-- **Backend:** [Node.js](https://nodejs.org/), [Express](https://expressjs.com/)
-- **Database:** [MongoDB](https://www.mongodb.com/)
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Chart:** Rechart.io
 
-## [Demo video](https://youtu.be/Y_U6JMFiet8)
+Looking forward to hearing from you!
