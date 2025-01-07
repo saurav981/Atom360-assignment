@@ -14,6 +14,6 @@ Assignment for Atom 360, a chart page, fetching data from an api call and a auth
 - **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
-- **Chart:** Rechart.io
+- **Chart:** Recharts.org
 
 Looking forward to hearing from you!
